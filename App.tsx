@@ -6,8 +6,8 @@ import Inicio from './screen/LoginScreen';
 export const App = () => {
   return (
     <SafeAreaView style={{flex:1}}>
-      {/*<RegistrationScreen/>*/}
       <Inicio/>
+      {/*<RegistrationScreen/>*/}
     </SafeAreaView>
     
   )
